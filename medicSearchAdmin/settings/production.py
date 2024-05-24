@@ -4,7 +4,7 @@ DEBUG = False
 
 SECRET_KEY = '@w232!43*fnhIoQTCkIp=>kbvRPiKkjro20874@n!jfV49@9'
 
-ALLOWED_HOSTS = ['159.112.186.174']
+ALLOWED_HOSTS = ['159.112.186.174', 'localhost']
 
 
 # Database
