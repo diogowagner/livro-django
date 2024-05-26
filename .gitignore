@@ -4,3 +4,4 @@
 __pycache__/
 venv/
 lnx-venv/
+gunicorn-error-log
