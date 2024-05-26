@@ -5,3 +5,4 @@ __pycache__/
 venv/
 lnx-venv/
 gunicorn-error-log
+local_settings.py

@@ -133,3 +133,8 @@ AUTHENTICATION_BACKENDS = [
 
 SOCIAL_AUTH_FACEBOOK_KEY = "802267578526301"
 SOCIAL_AUTH_FACEBOOK_SECRET = "2a18adeef03519b969c0b88ba86e7a91"
+
+try:
+    from .local_settings import *
+except ImportError:
+    ...
