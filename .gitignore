@@ -4,6 +4,7 @@
 *.pyc
 __pycache__
 db.sqlite3
+medicSearchAdmin/db.sqlite3
 local_settings.py
 gunicorn-error-log
 __localcode
